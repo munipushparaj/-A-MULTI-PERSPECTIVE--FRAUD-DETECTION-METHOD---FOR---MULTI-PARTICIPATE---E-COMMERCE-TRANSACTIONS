@@ -1,5 +1,6 @@
-# -A-MULTI-PERSPECTIVE--FRAUD-DETECTION-METHOD---FOR---MULTI-PARTICIPATE---E-COMMERCE-TRANSACTIONS
+# A-MULTI-PERSPECTIVE-FRAUD DETECTION-METHOD-FOR-MULTI-PARTICIPATE-E-COMMERCE-TRANSACTIONS
 **Project Title**
+
 An Approach Utilizing Multiple Viewpoints to Identify Fraudulent Activity in Commercial Transactions Involving Multiple Parties
 
 **Description**
