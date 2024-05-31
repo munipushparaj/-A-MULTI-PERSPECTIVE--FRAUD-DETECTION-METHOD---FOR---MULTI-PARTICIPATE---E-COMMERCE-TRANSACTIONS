@@ -1,9 +1,9 @@
 # A-MULTI-PERSPECTIVE-FRAUD DETECTION-METHOD-FOR-MULTI-PARTICIPATE-E-COMMERCE-TRANSACTIONS
-#**Project Title**
+**Project Title**
 
 An Approach Utilizing Multiple Viewpoints to Identify Fraudulent Activity in Commercial Transactions Involving Multiple Parties
 
-#**Description***
+**Description**
 
 This project focuses on developing a system to detect fraudulent activities in commercial transactions involving multiple parties. By utilizing multiple data sources and viewpoints, the system aims to enhance the accuracy of fraud detection. This approach leverages advanced machine learning algorithms and anomaly detection techniques to identify suspicious patterns and behaviors indicative of fraudulent activities.
 
@@ -62,13 +62,29 @@ Provides real-time notifications of suspicious activities.
 
 
  **Python Libraries:**
+
+
  Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+
+
  **Tools:**
+
+
  Jupyter Notebook, Git
+
+
  **Databases :**
+
+
  SQL, NoSQL
+
+
  **Environment**:
+
+
  Virtual Environment (venv)
+
+
 
 **Project Workflow**
 
@@ -111,7 +127,7 @@ Assess the performance of the models using metrics such as precision, recall, an
 
 Deploy the system for real-time fraud detection in a production environment.
 
-**CHALLENGES**
+**Challenges**
 
 
 **1.Data Integration:**
